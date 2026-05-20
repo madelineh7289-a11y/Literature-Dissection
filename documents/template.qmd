@@ -27,22 +27,29 @@ As a group:
 
 ## Table
 
-| Photo point number | Date of photo    | Season           | Direction of photo | Link to photo    |
-|:-------------------|:-----------------|:-----------------|:-------------------|:-----------------|
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
+| Photo point # | Date of photo| Season | Direction | Link to photo |
+|:--------------|:-------------|:-------|:----------|:-----------------|
+| 19            | 10/14/2020   |Fall    | West      | |https://ucsb.app.box.com/s/lkg7278kjby3po56j7w5kvhuvqhjmq8b/file/772042115300 |
+
+| 19            | 01/11/2021   |Winter | West       | |https://ucsb.app.box.com/s/lkg7278kjby3po56j7w5kvhuvqhjmq8b/file/772042115300 |
+
+| 19            | 04/14/2021   |Spring | West       | |https://ucsb.app.box.com/s/lkg7278kjby3po56j7w5kvhuvqhjmq8b/file/800404954971 |
+
+| 19            | 07/15/2021   |Summer | West       |https://ucsb.app.box.com/s/lkg7278kjby3po56j7w5kvhuvqhjmq8b/file/860946043272 |
+
 
 8.  Describe in 5-7 sentences total:
 
 -   which water year you chose to examine
+We chose to examine the 2021 water year (October 2020-October 2021)
 -   how that water year is relevant to your study
+This water year is relevent to our study because our largest monthly total precipitation takes place in January of 2021, which takes place within this time.
 -   which photo point you chose to examine
+We chose to examine photo point 19.
 -   how that photo point is relevant to your study
+Photo point 19 is situated in close proximity to Venoco Bridge which is one of the three sites of interest from our data sets. Venoco bridge has the most amount of observations out of all three sites and it thus a particular area of interest as it is better documented.
 -   what changes you see in vegetation, animals, environmental characteristics from the photos you chose.
+
 
 # Reports or posters
 
