@@ -34,3 +34,12 @@ Additionally, you should have edited the `template.qmd` such that all directions
 
 - eScholarship, specifically for the [Cheadle Center](https://escholarship.org/uc/ccber)
 - Google Scholar
+
+-----------------------
+typical read me format: 
+
+General information: 
+
+Data and file information: 
+
+Rendered output: 
