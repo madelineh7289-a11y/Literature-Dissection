@@ -40,16 +40,15 @@ As a group:
 
 8.  Describe in 5-7 sentences total:
 
--   which water year you chose to examine
-We chose to examine the 2021 water year (October 2020-October 2021)
--   how that water year is relevant to your study
-This water year is relevent to our study because our largest monthly total precipitation takes place in January of 2021, which takes place within this time.
--   which photo point you chose to examine
-We chose to examine photo point 19.
--   how that photo point is relevant to your study
-Photo point 19 is situated in close proximity to Venoco Bridge which is one of the three sites of interest from our data sets. Venoco bridge has the most amount of observations out of all three sites and it thus a particular area of interest as it is better documented.
--   what changes you see in vegetation, animals, environmental characteristics from the photos you chose.
+-We chose to examine the 2021 water year (October 2020-October 2021).
 
+-The 2021 water year is relevant to our study because our largest monthly total precipitation takes place in January of 2021, which takes place within this time. Large amounts o precipitation suggest that there may be more visual changes of the site between seasons and thus we aimed to choose a time period that could be best analyzed through photos.
+
+-We chose to examine photo point 19 (marked as "2" on the NCOS Photo Documentation Map).
+
+-Photo point 19 is located on Venoco Bridge which is one of the three sites of interest from our data sets. Venoco bridge has the most amount of observations out of all three sites and it thus a particular area of interest as it is better documented. Changes seen at Venoco Bridge could also loosely inform changes at Phelps Bridge and East Channel as precipitation levels are constant across sites. 
+
+-The photos we chose create a nice visualization for the seasonal changes occuring at Venoco Bridge within the North Campus Open Space. Our first photo (Fall of 2020 [beginning of 2021 water year]) sets a baseline for the photo site. We can observe the end of Venoco bridge in the bottom left corner and can note that the water level is quite low as there is bare land between the water line and the vegetation, suggesting partial inundation during other times of year. Moving to the Winter 2021 photo, we no longer see bare land and, as expected, it has been filled in with water. The vegetation along the water's edge is slightly more brown and less green than in the Fall, but we can also see some wildflowers sprouting that were not visible before. Four ducks are also visible in the winter photo where no animals were visible in fall. In the Spring, we see a slightly lower water level, suggested by more of the land masses being visible to the west, greener vegetation, and more wildflowers sprouting near the edge of Venoco bridge. We are also beginning to see some algae settling on top of the water suggesting a change in the level of nutrients and or substrates in the water (likely a result of climactic changes). The final picture depicting Summer of 2021 sees a lower water level than Spring, but not as low as the initial Winter 2020, similarly green vegetation as Spring, an absence of wildflowers, and an increase in the ampunt of algae settling on top of the water. 
 
 # Reports or posters
 
