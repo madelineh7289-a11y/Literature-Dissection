@@ -47,20 +47,10 @@ Permalink: https://escholarship.org/uc/item/2923f039
 Dataset used (likely): NCOS Water Quality Dataset
 
 Key insights:
--The report shows that salinity at Devereux Slough and NCOS is shaped by seasonal drying, evaporation, storm runoff, and tidal reconnection.
--In the fall, salinity near the bottom of the main channel stayed high, rising from about 50 ppt to over 60 ppt as water levels dropped from evaporation.
--It later decreased to around 55 ppt as temperatures cooled in November. In January 2016, two days of heavy rain, high tides, and surf raised water levels enough to breach the slough and reconnect it to the ocean.
--Salinity first dropped sharply to about 3 ppt as freshwater reached the sensor, but then rose above 30 ppt only a few hours later when seawater moved back in at high tide.
--A shorter breach in March caused a similar shift, with salinity dropping to 14 ppt before rising back to about 34 ppt.
--These findings show that rainfall can lower salinity quickly, but evaporation, tides, and ocean reconnection also strongly affect salinity patterns.
+The report shows that salinity at Devereux Slough and NCOS is shaped by seasonal drying, evaporation, storm runoff, and tidal reconnection. In the fall, salinity near the bottom of the main channel stayed high, rising from about 50 ppt to over 60 ppt as water levels dropped from evaporation. It later decreased to around 55 ppt as temperatures cooled in November. In January 2016, two days of heavy rain, high tides, and surf raised water levels enough to breach the slough and reconnect it to the ocean. Salinity first dropped sharply to about 3 ppt as freshwater reached the sensor, but then rose above 30 ppt only a few hours later when seawater moved back in at high tide. A shorter breach in March caused a similar shift, with salinity dropping to 14 ppt before rising back to about 34 ppt. These findings show that rainfall can lower salinity quickly, but evaporation, tides, and ocean reconnection also strongly affect salinity patterns.
 
 Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.):
--This report helps explain why our Spearman test failed to reject the null hypothesis.
--The test showed a very weak, non-significant relationship between monthly precipitation and salinity.
--This means there was not enough statistical evidence that the two variables were related in a consistent way.
--However, it is important to note that this does not mean rainfall has no effect at all.
--The different salinity figures we made by month and site should therefore be interpreted as part of a larger coastal wetland system, where rainfall may dilute salinity during some periods but breach events or seawater movement can raise salinity again.
--Overall, the report supports the explanation of why our results did not show a simple negative relationship between precipitation and salinity.
+This report helps explain why our Spearman test failed to reject the null hypothesis. The test showed a very weak, non-significant relationship between monthly precipitation and salinity. This means there was not enough statistical evidence that the two variables were related in a consistent way. However, it is important to note that this does not mean rainfall has no effect at all. The different salinity figures we made by month and site should therefore be interpreted as part of a larger coastal wetland system, where rainfall may dilute salinity during some periods but breach events or seawater movement can raise salinity again. Overall, the report supports the explanation of why our results did not show a simple negative relationship between precipitation and salinity.
 
 
 # Annotated bibliography
