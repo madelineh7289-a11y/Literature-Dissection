@@ -21,7 +21,7 @@ To work with the code in this repository, no packages or datasets are necessary,
 
 ## Rendered Output
 
-The rendered output for the Week 9 Literature Dissection filled in template in this repository is: [here]()
+The rendered output for the Week 9 Literature Dissection filled in template in this repository is: [here](https://madelineh7289-a11y.github.io/Literature-Dissection/documents/template.pdf)
 
 
 
