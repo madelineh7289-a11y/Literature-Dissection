@@ -8,6 +8,7 @@ To work with the code in this repository, no packages or datasets are necessary,
 
 ## Data and File Information
 
+```
 .
 ├── documents
 │   ├── ecology.csl
@@ -18,6 +19,8 @@ To work with the code in this repository, no packages or datasets are necessary,
 └── README.md
 
 2 directories, 6 files
+
+```
 
 ## Rendered Output
 
