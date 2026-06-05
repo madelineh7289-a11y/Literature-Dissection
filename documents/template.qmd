@@ -118,13 +118,13 @@ between salt marsh and forest
 
 Authors: Giovanna Nordio, Sergio Fagherazzi
 
-Main findings (2-4 sentences): Nordio and Fagherazzi (2022) found that
-rainfall caused short-term increases in groundwater level and short-term
-decreases in salinity due to freshwater dilution. However, rainfall did
-not appear to have a strong influence on salinity over longer periods,
-such as weeks or months. Instead, salinity was more closely tied to
-groundwater levels, evapotranspiration, and the movement of groundwater
-between the forest and marsh.
+Main findings (2-4 sentences): @nordio2022 found that rainfall caused
+short-term increases in groundwater level and short-term decreases in
+salinity due to freshwater dilution. However, rainfall did not appear to
+have a strong influence on salinity over longer periods, such as weeks
+or months. Instead, salinity was more closely tied to groundwater
+levels, evapotranspiration, and the movement of groundwater between the
+forest and marsh [@nordio2022].
 
 Relevance to study (2-4 sentences): This journal article is highly
 relevant as it supports the idea that precipitation can lower salinity,
@@ -136,7 +136,7 @@ help support why our Spearman correlation showed a very weak
 relationship between monthly precipitation and salinity. It helps
 explain our interpretation that precipitation alone does not strongly
 explain the fluctuation of salinity as connected coastal wetlands are
-impacted by various interacting hydrological processes.
+impacted by various interacting hydrological processes [@nordio2022].
 
 ### Paper 2
 
@@ -146,17 +146,17 @@ Authors: Maria José Amores, Francesca Verones, Catherine Raptis, Ronnie
 Juraske, Stephan Pfister, Franziska Stoessel, Assumpció Antón, Francesc
 Castells, and Stefanie Hellweg
 
-Main findings (2-4 sentences): Amores et al. (2013) found that increased
-salinity in a coastal wetland can negatively affect biodiversity,
-especially native plants, fish, algae, and crustaceans. The study showed
-that different species have different levels of tolerance to salinity,
+Main findings (2-4 sentences): @amores2013 found that increased salinity
+in a coastal wetland can negatively affect biodiversity, especially
+native plants, fish, algae, and crustaceans. The study showed that
+different species have different levels of tolerance to salinity,
 meaning that changes in salinity can alter which species are most likely
 to survive in a wetland. The authors also explain that salinity in the
 Nueva Lagoon increases during dry periods because evapotranspiration and
 saltwater infiltration concentrate salts, while wet-season precipitation
 decreases salinity through freshwater dilution. Overall, the paper shows
 that salinity is an important environmental factor shaping coastal
-wetland ecosystems.
+wetland ecosystems [@amores2013].
 
 Relevance to study (2-4 sentences): This paper is relevant because our
 project is not only interested in how precipitation affects salinity,
@@ -165,7 +165,7 @@ important as our elective explores this concept. Additionally, the
 journal article connects to our study because NCOS sites may differ in
 salinity due to precipitation, elevation, ocean connection, and
 evaporation, which could influence the types of species found at each
-site.
+site. [@amores2013]
 
 ### Paper 3
 
@@ -175,11 +175,12 @@ salinity and vegetation cover in a coastal desert wetland
 Authors: Kate H. Huckelbridge, Mark T. Stacey, Edward P. Glenn, John A.
 Dracup
 
-Main findings (2-4 sentences): Huckelbridge et al. (2010) found that
-salinity is a major factor controlling vegetation cover in the Ciénega
-de Santa Clara wetland. Their model showed that the wetland ecosystem
-was more sensitive to changes in salinity than changes in flow, and that
-increased salinity or decreased inflow could reduce vegetation habitat.
+Main findings (2-4 sentences): @huckelbridge2010 found that salinity is
+a major factor controlling vegetation cover in the Ciénega de Santa
+Clara wetland. Their model showed that the wetland ecosystem was more
+sensitive to changes in salinity than changes in flow, and that
+increased salinity or decreased inflow could reduce vegetation habitat
+[@huckelbridge2010].
 
 Relevance to study (2-4 sentences): This paper is useful because it
 shows that salinity is more than just a water-quality measurement. It is
@@ -187,7 +188,7 @@ closely tied to wetland structure, vegetation, and overall habitat
 conditions. For our study, this supports looking beyond a simple link
 between precipitation and salinity and also considering how elevation,
 water movement, and site location may influence salinity patterns across
-NCOS.
+NCOS [@huckelbridge2010].
 
 ### Paper 4
 
@@ -197,13 +198,13 @@ the southern edge of South America
 Authors: Julieta Galliari, Lucía Santucci, Lucas Misseri, Eleonora
 Carol, María del Pilar Alvarez
 
-Main findings (2-4 sentences): Galliari et al. (2021) found that
-groundwater salinity in coastal wetlands is shaped by several natural
-processes, including tidal flooding, the salinity of tidal water,
-evaporation, rainfall, and salts dissolving from the sediment. The
-journal article also discusses how salinity can differ within a wetland
-and from one wetland to another depending on climate, elevation,
-groundwater flow, and how often different areas are flooded by tides.
+Main findings (2-4 sentences): @galliari2021 found that groundwater
+salinity in coastal wetlands is shaped by several natural processes,
+including tidal flooding, the salinity of tidal water, evaporation,
+rainfall, and salts dissolving from the sediment. The journal article
+also discusses how salinity can differ within a wetland and from one
+wetland to another depending on climate, elevation, groundwater flow,
+and how often different areas are flooded by tides [@galliari2021].
 
 Relevance to study (2-4 sentences): This journal article is relevant as
 it shows that salinity patterns are spatial, meaning different parts of
@@ -211,7 +212,7 @@ the same wetland can have different salinity levels depending on
 elevation, flooding, and water movement. For our study, this supports
 looking at NCOS salinity by site and elevation rather than only testing
 precipitation, since rainfall is just a single aspect of a larger
-coastal wetland ecosystem.
+coastal wetland ecosystem [@galliari2021].
 
 ### Paper 5
 
@@ -220,19 +221,19 @@ a seasonally flooded Mediterranean wetland
 
 Authors: S. C. L. Watt, E. García-Berthou and L. Vilar
 
-Main findings (2-4 sentences): Watt et al. (2007) found that water
-levels, especially during the summer and autumn, were the main factor
+Main findings (2-4 sentences): @watt2006 found that water levels,
+especially during the summer and autumn, were the main factor
 influencing plant communities in abandoned Mediterranean ricefield
 wetlands. Salinity was not as important overall, but it still affected
 some shallow-marsh plants, with saltier soils linked to more brackish
-plant communities.
+plant communities [@watt2006].
 
 Relevance to study (2-4 sentences): This paper is relevant because it
 shows that wetland plant communities are shaped by water level and
 salinity conditions. This connects to our study - moreso our elective -
 because salinity is not only a water-quality variable, but also an
 ecological factor that can help explain why different plant and wildlife
-communities may occur across NCOS.
+communities may occur across NCOS [@watt2006].
 
 ### Paper 6
 
@@ -241,19 +242,19 @@ In Tidal Freshwater Forested Wetlands
 
 Authors: Christopher J. Anderson and B. Graeme Lockaby
 
-Main findings (2-4 sentences): Anderson and Lockaby (2012) found that
-tidal freshwater wetlands are shaped by several water-related factors,
-including river flow, tides, rainfall, evapotranspiration, groundwater,
-and wind. They found that saltwater intrusion was more likely during
-periods of low river flow, especially in late summer and fall, when sea
-levels were higher and wetlands had stronger tidal connections.
+Main findings (2-4 sentences): @anderson2011 found that tidal freshwater
+wetlands are shaped by several water-related factors, including river
+flow, tides, rainfall, evapotranspiration, groundwater, and wind. They
+found that saltwater intrusion was more likely during periods of low
+river flow, especially in late summer and fall, when sea levels were
+higher and wetlands had stronger tidal connections [@anderson2011].
 
 Relevance to study (2-4 sentences): This paper connects to our study
 because it focuses on seasonality, showing that saltwater intrusion was
 strongest during late summer and fall when river flow was low and tidal
 influence was high. Similarly, our study looks at precipitation across a
 water year, which lets us consider whether the timing of wet and dry
-periods helps explain salinity patterns at NCOS.
+periods helps explain salinity patterns at NCOS [@anderson2011].
 
 ### Paper 7
 
@@ -263,12 +264,13 @@ transport in coastal wetlands: Numerical simulations and field evidence
 Authors: Yibin Dai, Tiejun Wang, Qiong Han, Zhe Kong, Lichun Wang, Yun
 Li, Yunchao Lang
 
-Main findings (2-4 sentences): Dai et al. (2024) show that vegetation
-can change how water and salt move through coastal wetland soils by
-increasing soil hydraulic conductivity and strengthening connections
-between groundwater and surface soil. Their simulations also found that
-tides and evapotranspiration can lead to salt buildup in certain areas,
-while flooding events can temporarily flush out and dilute those salts.
+Main findings (2-4 sentences): @dai2024 show that vegetation can change
+how water and salt move through coastal wetland soils by increasing soil
+hydraulic conductivity and strengthening connections between groundwater
+and surface soil. Their simulations also found that tides and
+evapotranspiration can lead to salt buildup in certain areas, while
+flooding events can temporarily flush out and dilute those salts
+[@dai2024].
 
 Relevance to study (2-4 sentences): This journal article is relevant as
 it shows that freshwater can temporarily lower salinity, but tides,
@@ -276,7 +278,7 @@ groundwater movement, and evapotranspiration can allow salts to build
 back up over time. This connects to our study because we are looking at
 whether precipitation helps explain salinity at NCOS, while also
 recognizing that other coastal wetland processes may make that
-relationship less straightforward.
+relationship less straightforward [@dai2024].
 
 ### Paper 8
 
@@ -286,7 +288,7 @@ Waterfowl in Suisun Marsh, California
 Authors: Carley R. Schacter, Sarah H. Peterson, Mark P. Herzog, C. Alex
 Hartman, Michael L. Casazza, and Joshua T. Ackerman
 
-Main findings (2-4 sentences): This study proved that salinity
+Main findings (2-4 sentences): @wetland2021 proved that salinity
 conditions of a tidal and seasonally varying slough heavily impact the
 marine species, specifically ducklings around their hatching period.
 This study confirmed that salinity was higher in drier years, and lower
@@ -296,7 +298,7 @@ seasonally in a given year, showing that tidal influence and
 precipitation in each season was consistent. Researchers confirmed that
 duckling survival positively was related to the amount of water in the
 area, and the best salinity conditions for ducklings was low-levels
-(less than 2ppt) from the brooding season of May to July.
+(less than 2ppt) from the brooding season of May to July [@wetland2021].
 
 Relevance to study (2-4 sentences): This study is relevant to our data
 analysis as it depicts how salinity can be affected by the amount of
@@ -306,7 +308,7 @@ and NCOS area as an interconnected ecosystem. Thinking about the levels
 of salinity that different species thrive in is important when thinking
 about the health of the NCOS ecosystem, and how interconnected
 precipitation, salinity, vegetation, animal brooding, and animal
-coexistence.
+coexistence [@wetland2021].
 
 ### Paper 9
 
@@ -315,19 +317,20 @@ coastal wetlands: Implications on wetland restoration
 
 Authors: Qingqing Zhao, Junhong Bai, Guangliang Zhang
 
-Main findings (2-4 sentences): This study looked at the relationship
+Main findings (2-4 sentences): @zhao2017 looked at the relationship
 between salinity and total carbon captured for a wetland ecosystem, to
 see how to repair degraded wetland ecosystems and also work on creating
 stronger carbon sinks. This study found that high levels of salinity
 reduced carbon sequestration levels, in the Yellow Delta River in China.
-It was also found that salinity could decrease microbial activity.
+It was also found that salinity could decrease microbial activity
+[@zhao2017].
 
 Relevance to study (2-4 sentences): This relates to our data analysis
 study, as it helps us understand how the wetland restoration project at
 NCOS can help increase carbon sequestration and be used as a carbon
 sink. This helps us understand the functions of wetland and slough
 ecosystems, and how salinity can be important to the development of
-ecosystems and also to combat climate change.
+ecosystems and also to combat climate change [@zhao2017].
 
 ### Paper 10
 
@@ -337,7 +340,7 @@ ecology
 
 Authors: Elizabeth Burke Watson, Roger Bryne
 
-Main findings (2-4 sentences): This study found that salinity
+Main findings (2-4 sentences): @watson2009 found that salinity
 concentrations, specifically measured in sediment, were the best
 predictors of changes or abundance in the distribution of slough and
 wetland vegetation. As salinity varies immensely per season, this was a
@@ -347,7 +350,8 @@ levels in the region are two forces that will both affect plant
 distribution in the coming years, with low-salinity accepting plants
 being replaced by salinity tolerant plants. This study found that some
 aspects of wetlands will become more salty, and other areas become more
-fresh, and these changes are expected to decrease plant biodiversity.
+fresh, and these changes are expected to decrease plant biodiversity
+[@watson2009].
 
 Relevance to study (2-4 sentences): This paper is relevant to our study
 because it shows how climate change will affect wetland plant richness
@@ -360,7 +364,7 @@ higher sea level, if specific areas in the wetland switch salinities,
 plants will have a harder time adjusting, leading to less plant
 biodiversity. With NCOS’s connection to the ocean, along with the rich
 amount of biodiversity in plant species, monitoring these levels is
-extremely important.
+extremely important [@watson2009].
 
 ### Paper 11
 
@@ -371,7 +375,7 @@ Authors: Sarah J Russell, Lisamarie Windham-Myers, Ellen J
 Stuart-Haëntjens, Brian A Bergamaschi, Frank Anderson, Patty Oikawa and
 Sara H Knox
 
-Main findings (2-4 sentences): This paper researched the relationship
+Main findings (2-4 sentences): @russell2023 researched the relationship
 between gross-primary-productivity and salinity levels, finding that
 unusually high salinity levels connected to lower levels of productivity
 in a brackish wetland ecosystem. The researchers then connected higher
@@ -379,7 +383,7 @@ salinity levels with less carbon sequestration properties, due to the
 decreased primary productivity mentioned above. The authors also found
 that increased climate change variations in precipitation, droughts, and
 flooding would lead to more variability in salinity, thus overall
-reducing productivity as well.
+reducing productivity as well [@russell2023].
 
 Relevance to study (2-4 sentences): This study looked at a
 well-monitored brackish estuary in the San Francisco area, making the
@@ -388,7 +392,7 @@ relevant to our study because it helps us see the impact that salinity
 has on the productivity of the vegetation, and how this impacts the CO2
 sequestration and restoration attempts. In this study, salinity is also
 mentioned being connected to precipitation, which directly connects to
-the two variables we were studying.
+the two variables we were studying [@russell2023].
 
 ### Paper 12
 
@@ -397,76 +401,18 @@ Regime of a Coastal Groundwater–Fed Wetland
 
 Authors: Cameron Wood, Glenn A. Harrington
 
-Main findings (2-4 sentences): Wood and Harrington (2015) found that
-salinity in a coastal groundwater-fed wetland increased during seasonal
-sea-level peaks, even though seasonal recharge was also occurring. Their
-study shows that sea-level-driven saltwater movement can influence
-wetland salinity and may override the freshening effect expected from
-rainfall or groundwater recharge.
+Main findings (2-4 sentences): @wood2014 found that salinity in a
+coastal groundwater-fed wetland increased during seasonal sea-level
+peaks, even though seasonal recharge was also occurring. Their study
+shows that sea-level-driven saltwater movement can influence wetland
+salinity and may override the freshening effect expected from rainfall
+or groundwater recharge [@wood2014].
 
 Relevance to study (2-4 sentences): This journal article supports the
 idea that precipitation can lower salinity by adding freshwater, but it
 also shows that rainfall alone may not fully explain salinity patterns
 in connected coastal wetlands. This is relevant to NCOS because salinity
 may also be affected by ocean connection, sea-level changes, saltwater
-movement into the system, evaporation, and water depth.
+movement into the system, evaporation, and water depth [@wood2014].
 
 # References
-
-Amores, M.J., Verones, F., Raptis, C., Juraske, R., Pfister, S.,
-Stoessel, F., Antón, A., Castells, F. and Hellweg, S. (2013).
-Biodiversity Impacts from Salinity Increase in a Coastal Wetland.
-Environmental Science & Technology, 47(12), pp.6384–6392.
-doi:10.1021/es3045423.
-
-Anderson, C.J. and Lockaby, B.G. (2011). SEASONAL PATTERNS OF RIVER
-CONNECTIVITY AND SALTWATER INTRUSION IN TIDAL FRESHWATER FORESTED
-WETLANDS. River Research and Applications, 28(7), pp.814–826.
-doi:10.1002/rra.1489.
-
-Dai, Y., Wang, T., Han, Q., Kong, Z., Wang, L., Li, Y. and Lang, Y.
-(2024). Impacts of vegetation and tidal conditions on porewater and salt
-transport in coastal wetlands: Numerical simulations and field evidence.
-Journal of Hydrology, 636, pp.131251–131251.
-doi:10.1016/j.jhydrol.2024.131251.
-
-Galliari, J., Santucci, L., Misseri, L., Carol, E. and Alvarez, M.P.
-(2021). Processes controlling groundwater salinity in coastal wetlands
-of the southern edge of South America. Science of The Total Environment,
-754, p.141951. doi:10.1016/j.scitotenv.2020.141951.
-
-Huckelbridge, K.H., Stacey, M.T., Glenn, E.P. and Dracup, J.A. (2010).
-An integrated model for evaluating hydrology, hydrodynamics, salinity
-and vegetation cover in a coastal desert wetland. Ecological
-Engineering, 36(7), pp.850–861. doi:10.1016/j.ecoleng.2010.03.001.
-Nordio, G. and Fagherazzi, S. (2022). Salinity increases with water
-table elevation at the boundary between salt marsh and forest. Journal
-of Hydrology, 608, p.127576. doi:10.1016/j.jhydrol.2022.127576. Russell,
-S.J., Windham-Myers, L., Stuart-Haëntjens, E.J., Bergamaschi, B.A.,
-Anderson, F., Oikawa, P. and Knox, S.H. (2023). Increased salinity
-decreases annual gross primary productivity at a Northern California
-brackish tidal marsh. Environmental Research Letters, 18(3), p.034045.
-doi:10.1088/1748-9326/acbbdf. Schacter, C., Peterson, S., Herzog, M.,
-Hartman, C.A., Casazza, M. and Ackerman, J. (2021). Wetland Availability
-and Salinity Concentrations for Breeding Waterfowl in Suisun Marsh,
-California. San Francisco Estuary and Watershed Science,19(3).
-doi:10.15447/sfews.2021v19iss3art5.
-
-Watson, E.B. and Byrne, R. (2009). Abundance and diversity of tidal
-marsh plants along the salinity gradient of the San Francisco Estuary:
-implications for global change ecology. Plant Ecology, 205(1),
-pp.113–128. doi:10.1007/s11258-009-9602-7.
-
-Watt, S.C.L., García-Berthou, E. and Vilar, L. (2006). The influence of
-water level and salinity on plant assemblages of a seasonally flooded
-Mediterranean wetland. Plant Ecology, 189(1), pp.71–85.
-doi:10.1007/s11258-006-9167-7.
-
-Wood, C. and Harrington, G.A. (2014). Influence of Seasonal Variations
-in Sea Level on the Salinity Regime of a Coastal Groundwater–Fed
-Wetland. Groundwater, 53(1), pp.90–98. doi:10.1111/gwat.12168.
-
-Zhao, Q., Bai, J., Lu, Q. and Zhang, G. (2017). Effects of salinity on
-dynamics of soil carbon in degraded coastal wetlands: Implications on
-wetland restoration. Physics and Chemistry of the Earth, A/B/C, 97,
-pp.12–18. doi:10.1016/j.pce.2016.08.008.
