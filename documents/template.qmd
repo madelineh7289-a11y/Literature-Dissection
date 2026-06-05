@@ -80,7 +80,7 @@ Permalink: https://escholarship.org/uc/item/2923f039
 
 Dataset used (likely): NCOS Water Quality Dataset
 
-Key insights: The report shows that salinity at Devereux Slough and NCOS
+Key insights: @clark2016 shows that salinity at Devereux Slough and NCOS
 is shaped by seasonal drying, evaporation, storm runoff, and tidal
 reconnection. In the fall, salinity near the bottom of the main channel
 stayed high, rising from about 50 ppt to over 60 ppt as water levels
@@ -93,7 +93,7 @@ only a few hours later when seawater moved back in at high tide. A
 shorter breach in March caused a similar shift, with salinity dropping
 to 14 ppt before rising back to about 34 ppt. These findings show that
 rainfall can lower salinity quickly, but evaporation, tides, and ocean
-reconnection also strongly affect salinity patterns.
+reconnection also strongly affect salinity patterns [@clark2016].
 
 Relevance to your study (be specific here with the question you have
 asked, the figures you've made, the insights you've gained, etc.): This
@@ -107,7 +107,8 @@ month and site should therefore be interpreted as part of a larger
 coastal wetland system, where rainfall may dilute salinity during some
 periods but breach events or seawater movement can raise salinity again.
 Overall, the report supports the explanation of why our results did not
-show a simple negative relationship between precipitation and salinity.
+show a simple negative relationship between precipitation and salinity
+[@clark2016].
 
 # Annotated bibliography
 
