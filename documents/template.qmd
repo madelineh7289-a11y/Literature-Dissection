@@ -18,7 +18,7 @@ editor:
 ## Table
 
 | Photo point \# | Date of photo | Season | Direction | Link to photo |
-|:--------------|:--------------|:--------------|:--------------|:--------------|
+|:---|:---|:---|:---|:---|
 | 19 | 10/14/2020 | Fall | West | [Link](https://ucsb.app.box.com/s/lkg7278kjby3po56j7w5kvhuvqhjmq8b/file/772042115300) |
 | 19 | 01/11/2021 | Winter | West | [Link](https://ucsb.app.box.com/s/lkg7278kjby3po56j7w5kvhuvqhjmq8b/file/772042115300) |
 | 19 | 04/14/2021 | Spring | West | [Link](https://ucsb.app.box.com/s/lkg7278kjby3po56j7w5kvhuvqhjmq8b/file/800404954971) |
